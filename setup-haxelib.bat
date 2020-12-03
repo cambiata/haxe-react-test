@@ -1,0 +1,3 @@
+haxelib setup "%cd%\libs"
+
+
